@@ -1,0 +1,39 @@
+.quantity-control {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background-color: #f0f0f0;
+  padding: 0.25rem;
+  gap: 0.25rem;
+}
+
+.quantity-control button {
+  background: none;
+  border: none;
+  font-size: 1.2rem;
+  padding: 0 0.5rem;
+  cursor: pointer;
+}
+
+.quantity-control input {
+  width: 6ch;
+  text-align: center;
+  border: none;
+  font-weight: bold;
+  font-size: 1rem;
+  outline: none;
+}
+
+/* Chrome, Safari, Edge */
+.quantity-control input::-webkit-outer-spin-button,
+.quantity-control input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+.quantity-control input[type="number"] {
+  -moz-appearance: textfield;
+}

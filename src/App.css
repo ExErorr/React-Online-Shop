@@ -1,0 +1,11 @@
+.app-container {
+  position: relative;
+}
+.blue-btn {
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+}
+.blue-btn:hover {
+  background-color: #0056b3;
+}

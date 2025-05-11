@@ -1,0 +1,14 @@
+.cart-page {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 1rem;
+}
+
+.cart-page h1 {
+  margin-bottom: 1.5rem;
+}
+
+.cart-empty {
+  font-style: italic;
+  color: #666;
+}

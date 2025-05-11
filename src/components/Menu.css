@@ -1,0 +1,15 @@
+.menu-container {
+  display: flex;
+  justify-content: flex-end;
+}
+.cart-button {
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.cart-button:hover {
+  background-color: #0056b3;
+}
