@@ -19,8 +19,8 @@ Podejście i założenia:
 
 Jak uruchomić:
 
-- git clone https://github.com/ExErorr/react-online-store.git
-- cd react-online-store
-- npm install
-- npm run dev
-- http://localhost:5173
+- komenda klonowania repozytorium: git clone https://github.com/ExErorr/react-online-store.git
+- komenda przejścia do folderu: cd react-online-store
+- komenda do instalacji zależności: npm install
+- komenda uruchomienia: npm run dev
+- adres serwera lokalneo: http://localhost:5173
