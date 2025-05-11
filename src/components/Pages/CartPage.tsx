@@ -11,6 +11,7 @@ const CartPage: React.FC = () => {
 
   const handleGoToSummary = () => {
     navigate("/summary");
+    console.log(import.meta.env.BASE_URL);
   };
 
   return (
