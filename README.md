@@ -20,7 +20,7 @@ Podejście i założenia:
 Jak uruchomić:
 
 - git clone https://github.com/ExErorr/React-Online-Shop.git
-- cd React-Online-Shop
+- cd react-online-store
 - npm install
 - npm run dev
 - http://localhost:5173
