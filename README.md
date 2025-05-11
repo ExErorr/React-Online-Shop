@@ -17,15 +17,10 @@ Podejście i założenia:
 - Modularność, aby uniknąć powtórzeń w kodzie
 - Ładowanie danych z JSON
 
-Stack:
-
-- React + TypeScript
-- React Router
-- Context API
-- HTML / CSS Modules
-- Vite
-
 Jak uruchomić:
-npm install
-npm run dev
-http://localhost:5173
+
+- git clone https://github.com/ExErorr/React-Online-Shop.git
+- cd React-Online-Shop
+- npm install
+- npm run dev
+- http://localhost:5173
