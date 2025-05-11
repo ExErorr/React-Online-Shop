@@ -10,7 +10,7 @@ const OrderSummaryPage: React.FC = () => {
 
   const handleConfirmOrder = () => {
     localStorage.setItem("cartItems", JSON.stringify(cartItems));
-    window.location.href = "/confirmation";
+    window.location.href = `${import.meta.env.BASE_URL}confirmation`;
   };
 
   return (
